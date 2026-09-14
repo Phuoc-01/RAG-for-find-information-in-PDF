@@ -12,7 +12,7 @@ Hệ thống hỏi đáp thông minh (RAG) cho phép tải lên tài liệu PDF 
 
 ---
 
-## 🎯 Giới thiệu
+## Giới thiệu
 
 **RAG for Finding Information in PDF** là một hệ thống **Retrieval-Augmented Generation (RAG)** cho phép người dùng:
 
@@ -32,7 +32,7 @@ Hệ thống hỏi đáp thông minh (RAG) cho phép tải lên tài liệu PDF 
 
 ---
 
-## ✨ Tính năng
+## Tính năng
 
 ### Quản lý tài liệu
 
