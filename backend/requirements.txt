@@ -1,0 +1,50 @@
+# FASTAPI & WEB SERVER
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+python-multipart>=0.0.9
+httpx>=0.27.0
+
+# JSON & SERIALIZATION
+orjson>=3.9.15
+
+# PDF & DOCUMENT PROCESSING
+pypdf>=4.1.0
+python-docx>=1.1.0
+markdown>=3.5.1
+pandas>=2.1.0
+openpyxl>=3.1.0
+
+# TEXT CHUNKING
+langchain-text-splitters>=0.2.0
+
+# AI & EMBEDDING (GOOGLE GEMINI)
+google-generativeai>=0.3.0
+langchain>=0.1.0
+langchain-google-genai>=0.0.1
+langchain-community>=0.2.0
+langchain-postgres>=0.0.17
+numpy>=1.26.0
+tenacity>=8.2.3
+
+# DATABASE & VECTOR (POSTGRESQL + PGVECTOR)
+psycopg[binary]>=3.1.18
+asyncpg>=0.29.0
+pgvector>=0.2.5
+SQLAlchemy>=2.0.25
+alembic>=1.12.1
+
+# CACHE & QUEUE (TÙY CHỌN CHO PRODUCTION)
+redis>=5.0.1
+
+# UTILITIES & CONFIG
+python-dotenv>=1.0.1
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+python-dateutil>=2.8.2
+typing-extensions>=4.9.0
+
+# DEVELOPMENT & TESTING
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+black>=24.0.0
+ruff>=0.1.0

@@ -12,7 +12,11 @@
     "next": "14.2.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "lucide-react": "^0.400.0"
+    "lucide-react": "^0.400.0",
+    "react-hook-form": "^7.51.0",
+    "zod": "^3.22.4",  
+    "@hookform/resolvers": "^3.3.4",
+    "sonner": "^1.4.0"  
   },
   "devDependencies": {
     "typescript": "^5.5.3",
